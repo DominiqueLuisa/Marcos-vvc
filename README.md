@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ### Olá sou Marcos
 
 ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-vvc&theme=dark&show_icons=true)
+
+<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </a>
