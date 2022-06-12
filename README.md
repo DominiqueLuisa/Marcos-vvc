@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Olá sou Marcos
-![Marcos V GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+![Marcos V](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
