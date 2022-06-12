@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### Olá sou Marcos
 
-![Marcos V](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-vvc&theme=dark&show_icons=true)
