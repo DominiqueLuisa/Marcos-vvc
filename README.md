@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-vvc&theme=dark&show_icons=true)
 
-<a href="https://github.com/Marcos-vvc" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </a>
+<a href="https://github.com/Marcos-vvc" target="_blank">
+            <img width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+           </a>
