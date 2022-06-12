@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-vvc&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-vvc&layout=compact&langs_count=7&theme=blue-green"/>
 </div><br>            
-         
+<!-- Tecnologias que uso -->        
  <div style="display: inline_block"><br>           
 <a href="https://github.com/Marcos-vvc" target="_blank">
 <img align="center" alt="Marcos-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /</a>
